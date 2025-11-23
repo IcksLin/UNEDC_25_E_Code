@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "oled.h": "c",
+        "servo.h": "c",
+        "stdbool.h": "c",
+        "my_interrupt.h": "c",
+        "stdlib.h": "c",
+        "fuzzypid.h": "c",
+        "limits": "c",
+        "ratio": "c",
+        "packet_parser.h": "c",
+        "incrementalpid.h": "c",
+        "main.h": "c",
+        "menu.h": "c"
+    }
+}

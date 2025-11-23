@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "main.h": "c",
+        "delay.h": "c",
+        "motor.h": "c",
+        "tim.h": "c",
+        "stdio.h": "c",
+        "no_mcu_gray_sensor.h": "c",
+        "my_interrupt.h": "c",
+        "menu.h": "c",
+        "serial.h": "c",
+        "adc.h": "c",
+        "packet_parser.h": "c",
+        "stepper.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "math.h": "c",
+        "madgwickahrs.h": "c"
+    }
+}
