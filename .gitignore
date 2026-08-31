@@ -1,0 +1,59 @@
+# Build outputs for Keil MDK / Arm Compiler
+*.o
+*.obj
+*.d
+*.dep
+*.crf
+*.axf
+*.elf
+*.out
+*.hex
+*.bin
+*.lnp
+*.map
+*.lst
+*.list
+*.su
+*.gcda
+*.gcno
+*.gcov
+*.srec
+*.mot
+*.build_log.htm
+*.build_log.html
+**/MDK-ARM/*/*.htm
+
+# Keil standard output directories
+**/Objects/
+**/Listings/
+
+# Code Composer Studio build directories
+**/Debug/
+**/Release/
+
+# CMake and generic build directories
+**/build/
+**/cmake-build-*/
+
+# Debugger and IDE-generated local state
+*.uvguix.*
+*.uvguix
+*.log
+*.log.lock
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/usage.statistics.xml
+**/.vscode/*.log
+**/.vscode/*.lock
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
